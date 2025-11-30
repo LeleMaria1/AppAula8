@@ -1,0 +1,25 @@
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+  
+  # Para SharedPreferences
+  shared_preferences: ^2.2.0
+  
+  # Para Secure Storage
+  flutter_secure_storage: ^8.0.0
+  
+  # Para SQLite
+  sqflite: ^2.3.0
+  path: ^1.8.3
+  
+  # Para Firebase
+  firebase_core: ^2.15.1
+  cloud_firestore: ^4.9.1
+  
+  # Para Supabase
+  supabase_flutter: ^1.10.14
+  
+  # Para UI
+  provider: ^6.0.5
+  flutter_slidable: ^3.0.0
